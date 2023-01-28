@@ -40,7 +40,6 @@ print(U)
 (ii) To find the LU Decomposition of a matrix
 ```
 /*
-/*
 '''Program to solve a matrix using LU decomposition.
 Developed by: K.NIVETHA
 RegisterNumber: 22009186
@@ -54,7 +53,6 @@ B=eval(input())
 lu,piv=lu_factor(A)
 x=lu_solve((lu,piv),B)
 print(x)
-*/
 */
 ```
 
